@@ -1,0 +1,251 @@
+commit 38724fd2952ca72b55dbd26db3a75a61416ddc4a
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Thu Dec 31 21:44:33 2020 +0100
+
+    Erreur syntaxe corrigé
+
+commit bf91fd0a69bdcb3a0907a0e53db9638b13bd6df1
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Thu Dec 31 21:34:53 2020 +0100
+
+    Autres images correspondant au bouton
+
+commit afabf1af213d56849ffb5a2cea8fe10092b9a0f5
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Thu Dec 31 21:33:56 2020 +0100
+
+    Images
+
+commit 05008ba1f11ec457cd963eaedc8cafe7e38b910b
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Thu Dec 31 21:33:22 2020 +0100
+
+    Makefile
+
+commit 6c122a24617227cf953e97019c261f5925c6d42b
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Thu Dec 31 21:02:18 2020 +0100
+
+    Modif sans faire expres
+
+commit ca64a03be5d032ea28a31c3637009eb2533e593c
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Thu Dec 31 21:01:21 2020 +0100
+
+    Fonction test
+
+commit 49a3b7068d93b83b926f939613368d05ebd2e632
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Thu Dec 31 21:00:38 2020 +0100
+
+    Permettant de creer le quadtree
+
+commit d959c368b0f6f2afd43a31e99d6d94460a659bf6
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Wed Dec 30 21:48:24 2020 +0100
+
+    Permettant de compter les noeuds et savoir s'il sagit d'une feuille
+
+commit 092c0f6eefe2a20688061c14589c154ce2801658
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Wed Dec 30 21:47:36 2020 +0100
+
+    Permettant la minimisation
+
+commit 27a12b34db4e5f5bcab945821c78f08564b0763c
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Wed Dec 30 21:46:53 2020 +0100
+
+    Main
+
+commit edcb99f73560b3f907be96949d85389379bb01b6
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Wed Dec 30 21:46:26 2020 +0100
+
+    Permettant de manipuler liste distance c'est a dire ajout, suppression, comparaison ...
+
+commit 5f06079630f1e938245651b2c377dd2e12b4aa15
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Tue Dec 29 21:58:42 2020 +0100
+
+    Permettant de creer liste encodage et travailler dessus
+
+commit 7bd0c2a0b569eb82d4c59d887f2c60f1d0418491
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Tue Dec 29 21:58:01 2020 +0100
+
+    Permettant de creer liste contenant les distances et travailler dessus
+
+commit 67ba260a9da0529593876f83aaeda9a59a383524
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Tue Dec 29 21:57:10 2020 +0100
+
+    Permettant de creer l'interface
+
+commit 8bc25546173e6bf97c4cb53f67d47101f4131053
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Tue Dec 29 21:56:17 2020 +0100
+
+    Permettant de gerer les clicks de l'interface
+
+commit 748b7276b79599cea9797b097521a6838c9d6bdc
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Mon Dec 28 17:09:58 2020 +0100
+
+    Permettant de gerer l'interface graphique, l'affichage des images et l'ouverture des fichiers tel que .qtn, .qtc ...
+
+commit 1ca075178fa0a61e1c46f05c977bbf273bb9fb03
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Mon Dec 28 17:08:53 2020 +0100
+
+    Permettant de gerer les chemins pour l'ouverture des fichiers tel que image ou fichier .qtc, .qtn ...
+
+commit 8e29c0f165c53085ec9445115649d255dc756c39
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Mon Dec 28 17:07:35 2020 +0100
+
+    Permettant de calucler la distance, ainsi que  la comparaison
+
+commit 12cc2a283af39b26f6c723d17244d1b3bf9f24c6
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Mon Dec 28 17:05:51 2020 +0100
+
+    Permettant d'allouer le buffer ainsi que la lecture
+
+commit d68f3ea07d3e9ba2db56c3b3d9ef24594f76c564
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Sun Dec 27 15:17:51 2020 +0100
+
+    Contenant fonction gerant les erreurs lier au malloc et aussi fichier ou image
+
+commit 0cbb901f8ad0d090ddd89229d5fbeeb6404799d7
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Sun Dec 27 15:16:49 2020 +0100
+
+    Permettant l'encodage d'un graphe
+
+commit 29f5b2297b2ab2cec06c2d8870e8d7a3eb92aad1
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Sun Dec 27 15:16:12 2020 +0100
+
+    Permettant l'encodage binaire
+
+commit 01e127bbd55b51a7dd08198d3d15803ff3ee1974
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Sun Dec 27 15:15:35 2020 +0100
+
+    Permettant l'encodage
+
+commit 4ff2dad791cc63fbcd07bacc799966475e77a082
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Sat Dec 26 18:43:39 2020 +0100
+
+    Permettant d'obtenir et de comparer les distances
+
+commit 5775216d94ff61b0b5f3f66e845ac3c181daf024
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Sat Dec 26 18:42:46 2020 +0100
+
+    Permettant le decodage a partir d'un graphe
+
+commit 474d30a005bd109cd91423c2d15157d858f5fac2
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Sat Dec 26 18:41:54 2020 +0100
+
+    Permettant le decodage binaire
+
+commit 3f4194997f5a1b437e46a7952d0529c60c5bc1ae
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Sat Dec 26 18:40:29 2020 +0100
+
+    Correspondant au decodage
+
+commit bf564f601f249c253b51885550f61084d845fc20
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Fri Dec 25 14:25:39 2020 +0100
+
+    Permettant de compter le nombre de couleur d'une liste ainsi que sa mise jour
+
+commit 156c2b2384bf5eb71e8eaaedce575a61e85cf40c
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Thu Dec 24 20:03:26 2020 +0100
+
+    Fonction permettant de manipuler la liste de couleur ajout,supprimer, allocation ...
+
+commit 9c773ef75756815ded9b334e496a24195ec4e630
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Wed Dec 23 21:46:01 2020 +0100
+
+    Permettant de verifier les extensions de fichiers
+
+commit 831d04a0b4c54c747490da3e9a479419eaa580ca
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Tue Dec 22 22:07:24 2020 +0100
+
+    Fonction de test
+
+commit 0c1ac59a065eca48fb39e36dad28088ea4f95c6b
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Mon Dec 21 17:28:49 2020 +0100
+
+    Structure contenant les differentes couleurs ainsi que des fonctions dont on aura besoin
+
+commit 15f3eba7f5ee9a06dbae1d789b0f7f55db3da4ca
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Sun Dec 20 17:44:12 2020 +0100
+
+    Structure d'une liste de couleur et des prototypes de fonctions dont on aura besoin
+
+commit ad29bef47c8fc3a76acdc8dcf94fdadac988df1f
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Sat Dec 19 21:21:15 2020 +0100
+
+    Structure du quadtree et de la zone a etudier
+
+commit f3d72a36dce4b0c03bd238a36ab28c15e03e2905
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Fri Dec 18 14:00:53 2020 +0100
+
+    Bibliotheque dont on aura besoin
+
+commit 45bb6a7dd2ce719c5a1ce2e3970e1cf23937435f
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Thu Dec 17 13:09:50 2020 +0100
+
+    Permettant la lecture et allocation d'un buffer
+
+commit 60f5080fdba141690003c093846cf0cf343d892c
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Thu Dec 17 13:06:00 2020 +0100
+
+    Modification commentaire
+
+commit 73d396515a179aad989be75e681a45a48f5f95e8
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Wed Dec 16 19:01:04 2020 +0100
+
+    Gestion des erreurs lié au malloc et lecture fichier ou image
+
+commit a8b4898d6339f9948f9399583063ab7c5874ae98
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Wed Dec 16 18:51:59 2020 +0100
+
+    Gestion des erreurs du au malloc
+
+commit 9f004f65db3d2e5b818f58db9460e85a284b5795
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Wed Dec 16 17:53:41 2020 +0100
+
+    delete file
+
+commit ce9e4ac15c6410571c4f899b5ac487debbb89561
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Sun Dec 6 14:51:18 2020 +0100
+
+    version 1
+
+commit d0d888a7d1a8534a43ff6cccf1008c8591f4d4b9
+Author: padawan <padawan@debianUPEM-2016>
+Date:   Sun Dec 6 14:41:58 2020 +0100
+
+    version 1
